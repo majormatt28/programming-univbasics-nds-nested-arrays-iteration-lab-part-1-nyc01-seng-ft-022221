@@ -5,5 +5,7 @@ def find_even_values(src)
   array_of_arrays = [
     [src]
   ]
+  count = 0
+  
 
 end
